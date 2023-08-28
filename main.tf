@@ -11,3 +11,8 @@ module "B" {
   source = "./modules/moduleB"
   required_var = "call from root to B"
 }
+
+module "wrapperA" {
+  source = "./wrappers/wrapperA"
+  required_var = "call from root to wrapper A"
+}

@@ -1,6 +1,6 @@
 variable "optional_var" {
   type = string
-  default = "optional root module"
+  default = "default wrapper A"
   description = "some optional value"
 }
 
