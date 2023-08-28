@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab51ddd4-43c5-4551-be88-f06ab5c2c405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/moduleA/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleA/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleA/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleA/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleA/variables.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleB/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleB/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleB/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleB/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleB/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/moduleB/variables.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleA/modules/moduleC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleA/modules/moduleC/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleA/modules/moduleC/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleA/modules/moduleC/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleA/modules/moduleC/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleA/modules/moduleC/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleB/moduleD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleB/moduleD/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleB/moduleD/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleB/moduleD/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleB/moduleD/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/moduleB/moduleD/variables.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/moduleA/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/moduleA/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/moduleB/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/moduleB/variables.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/outputs.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/variables.tf" afterDir="false" />
     </list>
@@ -43,6 +44,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/modules/moduleB" />
+      <recent name="$PROJECT_DIR$/modules/moduleA/modules/moduleC" />
+      <recent name="$PROJECT_DIR$/wrappers/wrapperA" />
       <recent name="$PROJECT_DIR$/modules/moduleA" />
       <recent name="$PROJECT_DIR$/modules" />
     </key>

@@ -33,3 +33,15 @@ output "moduleB_optional_var" {
 output "moduleB_key" {
   value = module.B.key
 }
+
+output "wrapperA_required_var" {
+  value = module.wrapperA.required_var
+}
+
+output "wrapperA_optional_var" {
+  value = module.wrapperA.optional_var
+}
+
+output "wrapperA_key" {
+  value = module.wrapperA.key
+}
